@@ -1,0 +1,28 @@
+/* App.css */
+.App {
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    margin-bottom: 20px;
+  }
+  
+  .countryContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .countryCard {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+  }
+  
+  .countryCard img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
